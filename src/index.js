@@ -1,2 +1,2 @@
-export default str => str.split('a').reverse().join('');
+export default str => str.split('').reverse().join('');
 
